@@ -19,7 +19,7 @@ bin/console server:run
 php bin/console debug:autowiring
 
 ## Annotations (pour les roots en commentaire)
-composer require annovations
+composer require annotations
 
 ## Barre de debug
 composer require profiler --dev
