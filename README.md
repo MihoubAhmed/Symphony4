@@ -33,7 +33,7 @@ composer require orm
 
 ## Pour la génération de code
 composer require maker-bundle
-### Pour créer une controller
+### Pour créer un controller
 php bin/console make:controller Posts
 ### Pour créer un form
 php bin/console make:form Post
